@@ -1,4 +1,4 @@
-package com.car.yona.takeandgo;
+package com.car.yona.takeandgo.controllers;
 
 import android.app.Activity;
 import android.os.Bundle;
